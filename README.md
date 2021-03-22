@@ -5,7 +5,7 @@ RFID Expansion for Micro:bit is an RFID device with an updated UART interface ru
 How to use ?
 
 * Attach Microbit on stackable connector of RFID Expansion of Microbit as shown below.
-* 
+
 <img src="images/product_pic.PNG" />
 
 * Visit official programming website of Microbit https://makecode.microbit.org/
@@ -15,6 +15,6 @@ How to use ?
 
 * Now drag and drop block as shown in below image and click on download button to download it on your Microbit.
 
-<img src="images/microbit_rfid.PNG" />
+<img src="images/microbit-rfid.PNG" />
 
 * Tap RFID card, Keyfob or Tag on RFID receiver to show 12 digit unique id of card on led matrix of Microbit.
