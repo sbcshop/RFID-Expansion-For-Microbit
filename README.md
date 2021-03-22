@@ -5,7 +5,9 @@ RFID Expansion for Micro:bit is an RFID device with an updated UART interface ru
 How to use ?
 
 * Attach Microbit on stackable connector of RFID Expansion of Microbit as shown below.
+* 
 <img src="images/product_pic.PNG" />
+
 * Visit official programming website of Microbit https://makecode.microbit.org/
 * Now Create a new project by clicking on "New project" tab and enter name of your project. 
 
