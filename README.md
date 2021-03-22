@@ -2,7 +2,7 @@
 
 RFID Expansion for Micro:bit is an RFID device with an updated UART interface running at the frequency of 125KHz, Programmable Buzzer, two Dedicated slots for Servo Motor Interfacing.
 
-How to use ?
+$## How to use ?
 
 * Attach Microbit on stackable connector of RFID Expansion of Microbit as shown below.
 
@@ -18,3 +18,7 @@ How to use ?
 <img src="images/microbit-rfid.PNG" />
 
 * Tap RFID card, Keyfob or Tag on RFID receiver to show 12 digit unique id of card on led matrix of Microbit.
+
+## Aternate Method :
+
+* You can directly drag and drop test.hex file to Microbit to run above said program and Tap card/Tag to display their unique id on led matrix. 
