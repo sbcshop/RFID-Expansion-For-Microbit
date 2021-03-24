@@ -2,6 +2,8 @@
 
 RFID Expansion for Micro:bit is an RFID device with an updated UART interface running at the frequency of 125KHz, Programmable Buzzer, two Dedicated slots for Servo Motor Interfacing.
 
+Buy it from : https://shop.sb-components.co.uk/products/rfid-expansion-for-micro-bit
+
 ## How to use ?
 
 * Attach Microbit on stackable connector of RFID Expansion of Microbit as shown below.
