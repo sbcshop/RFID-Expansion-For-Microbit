@@ -11,11 +11,11 @@ Buy it from : https://shop.sb-components.co.uk/products/rfid-expansion-for-micro
 <img src="images/product1.png" />
 
 * Visit official programming website of Microbit https://makecode.microbit.org/
-* Now Create a new project by clicking on "New project" tab and enter name of your project. 
+* Now Create a new project by clicking on "New project" tab and enter the name of your project.
 
 <img src="images/makecode_microbit.PNG" />
 
-* Now drag and drop block as shown in below image and click on download button to download it on your Microbit.
+* Now drag and drop the block as shown in the image below and click on the download button to download it on your Microbit.
 
 <img src="images/microbit-rfid.PNG" />
 
@@ -23,4 +23,4 @@ Buy it from : https://shop.sb-components.co.uk/products/rfid-expansion-for-micro
 
 ## Alternate Method :
 
-* You can directly drag and drop <b>test.hex</b> file to Microbit to run above said program and Tap card/Tag to display their unique id on led matrix. 
+* You can directly drag and drop <b>test.hex</b> file to Microbit to run the above said program and Tap card/Tag to display their unique id on led matrix. 
